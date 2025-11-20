@@ -45,7 +45,9 @@ This is an implementation of LGT8Fx8P ISP download protocol. You can make arduin
 
 ## Guide
 
-[rickygai](https://github.com/rickygai) created a very detailed guide [here](https://github.com/rickygai/arduino/blob/main/LGT8F328P.pdf)
+[wolles](https://wolles-elektronikkiste.de/en/lgt8f328p-lqfp32-boards#larduinoisp)
+
+[rickygai](https://github.com/rickygai/arduino/blob/main/LGT8F328P.pdf)
 
 ## author
 
