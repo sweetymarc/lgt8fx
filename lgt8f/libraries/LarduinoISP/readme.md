@@ -1,3 +1,5 @@
+Improved version and more detailed documentation: https://github.com/SuperUserNameMan/LGTISP
+
 adapted: https://github.com/dbuezas/lgt8fx/
 
 source: https://github.com/brother-yan/LGTISP
